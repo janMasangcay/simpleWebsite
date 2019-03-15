@@ -1,0 +1,56 @@
+/*************TAG Selector*************/
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*************CLASS Selector*************/
+.top-container {
+    background-color: #E4f9f5;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    bottom: 1000px;
+    left: 65%;
+    position: absolute;
+    top: 40px;
+}
+
+.myPic {
+    border-radius: 360px;
+    height: 150px;
+}
+
+.computer-img {
+    height: 400px;
+}
+
+.pro {
+    text-decoration: underline;
+}
