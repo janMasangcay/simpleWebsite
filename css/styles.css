@@ -50,6 +50,14 @@ h3, a{
     height: 400px;
 }
 
+.title {
+    line-height: 2;
+}
+
+.programmer {
+    font-weight: normal;
+}
+
 .pro {
     text-decoration: underline;
 }
