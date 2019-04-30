@@ -16,6 +16,7 @@ h2 {
     color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
+    font-weight: normal;
 }
 
 h3, a{
@@ -48,14 +49,6 @@ h3, a{
 
 .computer-img {
     height: 400px;
-}
-
-.title {
-    line-height: 2;
-}
-
-.programmer {
-    font-weight: normal;
 }
 
 .pro {
