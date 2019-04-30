@@ -54,3 +54,10 @@ h3, a{
 .pro {
     text-decoration: underline;
 }
+
+.skill-row {
+    text-align: left;
+    margin: 100px auto;
+    width: 50%;
+    line-height: 2;
+}
