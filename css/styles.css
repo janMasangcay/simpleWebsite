@@ -47,8 +47,10 @@ h3, a{
     height: 150px;
 }
 
-.computer-img {
-    height: 400px;
+.coding-img, .chilli-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
 }
 
 .pro {
